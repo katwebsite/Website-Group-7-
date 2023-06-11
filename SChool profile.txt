@@ -1,0 +1,195 @@
+<html>
+
+
+<h1>SCHOOL PROFILE</h1>
+
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+</style>
+</head>
+<body>
+
+<button class="button button1"><li><a href="C:\Users\ACER PC\Desktop\KATRINA.html" target="_blank">Home</a></li></button>
+
+
+</body>
+
+</style>
+
+
+<table style="width:35%">
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+  <tr>
+    <td>School ID</td>
+    <td>300500</td>
+ 
+  </tr>
+  <tr>
+    <td>School name</td>
+    <td>Alicia National High School</td>
+  
+  </tr>
+
+ <tr>
+    <td>Short name</td>
+    <td>Alicia NHS</td>
+ 
+  </tr>
+
+ <tr>
+    <td>Previous name</td>
+    <td>Rizal Region NHS Annex</td>
+  
+  </tr>
+ <tr>
+    <td>Date Established</td>
+    <td>January, 2000</td>
+ 
+  </tr>
+ <tr>
+    <td>Genral Classification</td>
+    <td>Public</td>
+ 
+  </tr>
+ <tr>
+    <td>General curricular offerings</td>
+    <td>Secondary</td>
+ 
+  </tr>
+ <tr>
+    <td>Street Address</td>
+    <td>Maharlika Highway, Paddad Alicia Isa.</td>
+ 
+  </tr>
+<tr>
+    <td>Zip code</td>
+    <td>3306</td>
+ 
+  </tr>
+<tr>
+    <td>Region</td>
+    <td>Region II</td>
+ 
+  </tr>
+<tr>
+    <td>Division</td>
+    <td>Isabela</td>
+ 
+  </tr>
+<tr>
+    <td>District</td>
+    <td>Alicia East</td>
+ 
+  </tr>
+
+
+</table>
+
+
+<h1>Contact Information</h1>
+
+<table style="width:50%">
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+  <tr>
+    <td>School head name</td>
+    <td>300500</td>
+ 
+  </tr>
+  <tr>
+    <td>School name</td>
+    <td>Alicia National High School</td>
+  
+  </tr>
+
+ <tr>
+    <td>Short name</td>
+    <td>Alicia NHS</td>
+ 
+  </tr>
+
+ <tr>
+    <td>Previous name</td>
+    <td>Rizal Region NHS Annex</td>
+  
+  </tr>
+ <tr>
+    <td>Date Established</td>
+    <td>January, 2000</td>
+ 
+  </tr>
+ <tr>
+    <td>Genral Classification</td>
+    <td>Public</td>
+ 
+  </tr>
+ <tr>
+    <td>General curricular offerings</td>
+    <td>Secondary</td>
+ 
+  </tr>
+ <tr>
+    <td>Street Address</td>
+    <td>Maharlika Highway, Paddad Alicia Isa.</td>
+ 
+  </tr>
+<tr>
+    <td>Zip code</td>
+    <td>3306</td>
+ 
+  </tr>
+<tr>
+    <td>Region</td>
+    <td>Region II</td>
+ 
+  </tr>
+<tr>
+    <td>Division</td>
+    <td>Isabela</td>
+ 
+  </tr>
+<tr>
+    <td>District</td>
+    <td>Alicia East</td>
+ 
+  </tr>
+
+
+</table>
+
+
+
+
+
+</html>

@@ -1,0 +1,241 @@
+<!DOCTYPE>
+
+<html>
+<body>
+<aside>
+<section>
+<nav>
+<ul>
+
+<head>
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+</style>
+</head>
+<body>
+
+<button class="button button1"><li><a href="file:///C:/Users/ACER%20PC/Desktop/SCHOOL%20PROFILE/SChool%20profile.html" target="_blank">School Profile</a></li></button>
+<button class="button button2"><li><a href="file:///C:/Users/ACER%20PC/Desktop/Junior%20Department%20Teachers.html" target="_blank">Junior High Department Teachers</a></li></button>
+
+</body>
+
+</style>
+
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+</style>
+</head>
+<body>
+
+<button class="button button1"><li><a href="file:///C:/Users/ACER%20PC/Desktop/Senior-High-Department-Teachers.html" target="_blank">Senior High Department Teachers</a></button>
+<button class="button button2"><li><a href="file:///C:/Users/ACER%20PC/Desktop/Website%20About.html"_blank">About</a></li></button>
+
+
+
+</body>
+
+</style>
+
+
+
+
+</nav>
+
+</section>
+
+</aside>
+
+<section>
+
+
+
+<h1 style="font-size:80px; text-align:center;"><marquee>Mission</marquee></h1>
+<blockquote style="font-size:50px">
+To protect and promote the right of every Filipino to quality, equitable, culture-based, and complete basic education.<br>
+</blockquote>
+
+<h1 style="font-size:80px;text-align:center;"><marquee>Vision</marquee></h1>
+<blockquote style="font-size:46px">
+We dream of Filipinos Who passionately love their Country and whose values and competencies enable them to realize their full potential and contribute meaningfully to building the  THE NATION AS A LEARNER-CENTERED PUBLIC INSTITUTION, THE DEPARTMENT OF EDUCATION  CONTINUOUSLY IMPROVES ITSELF TO BETTER SERVE ITS STAKEHOLDERS
+</blockquote>
+
+<h1 style="font-size:80px; text-align:center">Lupang Hinirang</h1>
+<right>
+<p style="text-align:center; font-size:45px;">
+
+Bayang Magiliw, Perlas ng Silanganan<br>
+Alab ng Puso sa dibdib mo'y buhay<br>
+Lupang Hinirang, Duyan ka ng magiting,<br>
+Sa manlulupig di ka pasisiil.<br>
+<br>
+Sa dagat at bundok,<br>
+Sa simoy at sa langit mong bughaw,<br>
+May dilag ang tula<br>
+At awit sa paglayang minamahal.<br>
+<br>
+Ang kislap ng watawat mo'y<br>
+Tagumpay na nagniningning;<br>
+Ang bituin at araw niya<br>
+Kailan pa ma'y di magdidilim.<br>
+Lupa ng araw, ng luwalhati't pagsinta,<br>
+Buhay ay langit sa piling mo;<br>
+Aming ligaya na pag may mang-aapi<br>
+Ang mamatay nang dahil sa iyo.<br>
+</p>
+</center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-size:45px; text-align:center">
+Ako ay Pilipino<br>
+Buong katapatang nanunumpa sa watawat ng Pilipinas<br>
+At sa bansang kanyang sinasagisag<br>
+Na may dangal, katarungan at kalayaan<br>
+Na pinakikilos ng sambayanang maka-Diyos,<br>
+Maka-kalikasan, maka-tao at maka-bansa.<br>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 style="font-size:80px; text-align:center">Panunumpa sa Watawat</h1>
+
+<p style="font-size:45px; text-align:center">
+Ako ay Pilipino<br>
+Buong katapatang nanunumpa sa watawat ng Pilipinas<br>
+At sa bansang kanyang sinasagisag<br>
+Na may dangal, katarungan at kalayaan<br>
+Na pinakikilos ng sambayanang maka-Diyos,<br>
+Maka-kalikasan, maka-tao at maka-bansa.<br>
+</p>
+
+<h1 style="font-size:80px; text-align:center">Isabela Hymn</h1>
+<p style="text-align:center; font-size:50px;">
+Isabela a home endeared by man upright and free<br>
+A land where peace and love abide where man of truth reside<br>
+Endowed with rich and glorious past<br>
+A heritage known and vast<br>
+From Palanan to Jones they stood<br>
+For freedom and for truth.<br>
+</p>
+<p style="text-align:center; font-size:50px;">
+Her shining rivers teem with fish and forest lush with trees<br>
+Her fertile fields abode which yields are blessings for our needs<br>
+Bless Isabela precious Lord!<br>
+And bring her in your fold<br>
+In unison we all proclaim<br>
+Her providential fame.<br>
+</p>
+</section>
+<style>
+
+
+body {
+  background-image: url('file:///C:/Users/ACER%20PC/Downloads/345143064_734970248382168_4261466442770521576_n.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+
+
+</style>
+
+

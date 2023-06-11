@@ -1,0 +1,340 @@
+<html>
+<h1 style="text-align: center;"><marquee>Junior High School</marquee></h1>
+<style>
+table, th, td {
+  text-align: center;
+  border:1px solid black;
+}
+body{
+	background-color: yellow;
+}
+<body>
+
+</body>
+
+
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+
+
+<table style="width:100%">
+  <tr>
+    <td>GRADE/YEAR LEVEL</td>
+    <td>SECTION</td>
+    <td>NAME OF ADVISER</td>
+  </tr>
+  <tr>
+    <td>Grade 7(Year I)</td>
+    <td>Aristotle</td>
+    <td>Mirasol Lumiwes Culapit</td>
+  </tr>
+ <tr>
+    <td>Grade 7(Year I)</td>
+    <td>Atis</td>
+    <td>Diosalin Gundan Ibay</td>
+  </tr>
+<tr>
+    <td>Grade 7(Year I)</td>
+    <td>Chico</td>
+    <td>Vilma Arpon Sagabaen</td>
+  </tr>
+<tr>
+    <td>Grade 7(Year I)</td>
+    <td>Diaz</td>
+    <td>Shanaiah Lois Edelna Lleva Acdang</td>
+  </tr>
+<tr>
+    <td>Grade 7(Year I)</td>
+    <td>Guava</td>
+    <td>Clarievy Ann Gallego Pascual</td>
+<tr>
+    <td>Grade 7(Year I)</td>
+    <td>Guyabano</td>
+    <td>Catherine Sanchez Mangibin</td>
+  </tr>
+  <tr>
+    <td>Grade 7(Year I)</td>
+    <td>Langka</td>
+    <td>Rosely Zingapan Bernardo</td>
+  </tr>
+<tr>
+    <td>Grade 7(Year I)</td>
+    <td>Mango</td>
+    <td>Christine Yarsia Cristobal</td>
+  </tr>
+<tr>
+    <td>Grade 7(Year I)</td>
+    <td>Nepumuceno</td>
+    <td>Jenna Sabado Castro</td>
+  </tr>
+<tr>
+    <td>Grade 7(Year I)</td>
+    <td>Santol</td>
+    <td>Alicia Caday Domingo</td>
+  </tr>
+<tr>
+    <td>Grade 7(Year I)</td>
+    <td>Star Apple</td>
+    <td>Lynda Sabado Valdez</td>
+  </tr>
+<tr>
+    <td>Grade 7(Year I)</td>
+    <td>Tamarind</td>
+    <td>Rosemarie Rosales Mauricio</td>
+  </tr>
+<tr>
+    <td>Grade 7(Year I)</td>
+    <td>Mango</td>
+    <td>Christine Yarsia Cristobal</td>
+  </tr>
+<tr>
+    <td>Grade 8(Year II)</td>
+    <td>Aguinaldo</td>
+    <td>Kristel Dane Joy Bustomante Esguerra</td>
+  </tr>
+<tr>
+    <td>Grade 8(Year II)</td>
+    <td>Aquino</td>
+    <td>Shella Dauag Laman</td>
+  </tr>
+<tr>
+    <td>Grade 8(Year II)</td>
+    <td>Bonifacio</td>
+    <td>Fritzie Bartolome Macasaddug</td>
+  </tr>
+<tr>
+    <td>Grade 8(Year II)</td>
+    <td>Del Pilar</td>
+    <td>Jay Partido Sison</td>
+  </tr>
+<tr>
+    <td>Grade 8(Year II)</td>
+    <td>Elorde</td>
+    <td>Noeme Agpalza Mendoza</td>
+  </tr>
+<tr>
+    <td>Grade 8(Year II)</td>
+    <td>Jacinto</td>
+    <td>Josephine Tomas Miguel</td>
+  </tr>
+<tr>
+    <td>Grade 8(Year II)</td>
+    <td>Lapu-Lapu</td>
+    <td>Danny Annua Martinez</td>
+  </tr>
+<tr>
+    <td>Grade 8(Year II)</td>
+    <td>Lopez Jaena</td>
+    <td>Jessa Martin Patacsil</td>
+  </tr>
+<tr>
+    <td>Grade 8(Year II)</td>
+    <td>Luna</td>
+    <td>Mary Daisy Mendez Bautista</td>
+  </tr>
+<tr>
+    <td>Grade 8(Year II)</td>
+    <td>Pacquiao</td>
+    <td>Paul Glicerio Laconsay Acosta</td>
+  </tr>
+<tr>
+    <td>Grade 8(Year II)</td>
+    <td>Panganiban</td>
+    <td>Girlie Briones Soriano</td>
+  </tr>
+<tr>
+    <td>Grade 8(Year II)</td>
+    <td>Plato</td>
+    <td>Jomar Almiron Felix</td>
+  </tr>
+<tr>
+    <td>Grade 8(Year II)</td>
+    <td>Rizal</td>
+    <td>Maridol Yuson Martinez</td>
+  </tr>
+<tr>
+    <td>Grade 9(Year III)</td>
+    <td>Acacia</td>
+    <td>Leopoldo Florendo Romero</td>
+  </tr>
+<tr>
+    <td>Grade 9(Year III)</td>
+    <td>Gmelina</td>
+    <td>Jonathan Garcia Martin</td>
+<tr>
+    <td>Grade 9(Year III)</td>
+    <td>Golden Shower</td>
+    <td>Joselyn Cabadido Agpalza</td>
+  </tr>
+<tr>
+    <td>Grade 9(Year III)</td>
+    <td>Kamagong</td>
+    <td>Angelica Mae Reyes Pattalitan</td>
+  </tr>
+<tr>
+    <td>Grade 9(Year III)</td>
+    <td>Mahogany</td>
+    <td>Joselito Andrada Tejada</td>
+  </tr>
+<tr>
+    <td>Grade 9(Year III)</td>
+    <td>Molave</td>
+    <td>Jacob Martin Bartolome Jr.</td>
+  </tr>
+<tr>
+    <td>Grade 9(Year III)</td>
+    <td>Narra</td>
+    <td>Dindo Santos Guiao</td>
+  </tr>
+<tr>
+    <td>Grade 9(Year III)</td>
+    <td>STE Newton</td>
+    <td>Mary Grace Datugan Pedronan</td>
+  </tr>
+<tr>
+    <td>Grade 9(Year III)</td>
+    <td>Talisay</td>
+    <td>Janet Garcia Managuelod</td>
+  </tr>
+<tr>
+    <td>Grade 9(Year III)</td>
+    <td>Tindalo</td>
+    <td>Roger Esquijo Fragata</td>
+  </tr>
+<tr>
+    <td>Grade 9(Year III)</td>
+    <td>SPS Torre</td>
+    <td>Aguinaldo Castro Paray</td>
+  </tr>
+<tr>
+    <td>Grade 9(Year III)</td>
+    <td>Yakal</td>
+    <td>Deverly Magno Galora</td>
+  </tr>
+<tr>
+    <td>Grade 10(Year IV)</td>
+    <td>Adenium</td>
+    <td>Mary Jean Returco Romero</td>
+  </tr>
+<tr>
+    <td>Grade 10(Year IV)</td>
+    <td>Bata Reyes</td>
+    <td>Ariston Laconsay De Guzman</td>
+  </tr>
+<tr>
+    <td>Grade 10(Year IV)</td>
+    <td>Cattleya</td>
+    <td>Mary Anthonette Orindain Aguirre</td>
+  </tr>
+<tr>
+    <td>Grade 10(Year IV)</td>
+    <td>Crysanthemum</td>
+    <td>Vanessa Masiglat Almuete</td>
+  </tr>
+<tr>
+    <td>Grade 10(Year IV)</td>
+    <td>Dahlia</td>
+    <td>Ofella Lalaine Carabbacan Castro</td>
+  </tr>
+<tr>
+    <td>Grade 10(Year IV)</td>
+    <td>Gladiola</td>
+    <td>Ernesto Magat Julian</td>
+  </tr>
+<tr>
+    <td>Grade 10(Year IV)</td>
+    <td>Hyacinth</td>
+    <td>Thelma Asuncion Baltazar</td>
+  </tr>
+<tr>
+    <td>Grade 10(Year IV)</td>
+    <td>Jasmine</td>
+    <td>William Castro Obra</td>
+  </tr>
+<tr>
+    <td>Grade 10(Year IV)</td>
+    <td>Rose</td>
+    <td>Jovita Esguerra Brillo</td>
+  </tr>
+<tr>
+    <td>Grade 10(Year IV)</td>
+    <td>Sampaguita</td>
+    <td>Aileen Reyes Dingcog</td>
+  </tr>
+<tr>
+    <td>Grade 10(Year IV)</td>
+    <td>Sunflower</td>
+    <td>Merwin Andrei Elarde Simon</td>
+  </tr>
+<tr>
+    <td>Grade 10(Year IV)</td>
+    <td>YlDefonso</td>
+    <td>Mildred Justo Medina</td>
+  </tr>
+
+
+
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+</style>
+</head>
+<body>
+
+<button class="button button1"><li><a href="C:\Users\ACER PC\Desktop\KATRINA.html" target="_blank">Home</a></li></button>
+
+
+</body>
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>

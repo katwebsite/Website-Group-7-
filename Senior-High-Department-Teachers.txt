@@ -1,0 +1,204 @@
+<html>
+<style>
+table, th, td {
+  text-align: center;
+  border:1px solid black;
+}
+body{
+	background-color: tomato;
+}
+</style>
+<body style="font-color: white;">
+
+<h1 style="text-align: center;"><marquee>Senior High School</marquee></h1>
+
+<table style="width:100%;">
+  <tr>
+    <td>GRADE/YEAR LEVEL</td>
+    <td>TRACK</td>
+    <td>STRAND</td>
+    <td>SECTION</td>
+    <td>NAME OF ADVISER</td>
+  </tr>
+  <tr>
+    <td>Grade 11(Year V)</td>
+    <td>Academic Track</td>
+    <td>Accountancy, Business, and Management</td>
+    <td>Pacioli</td>
+    <td>Rizalia G. Pradez</td>
+  </tr>
+ <tr>
+     <td>Grade 11(Year V)</td>
+    <td>Academic Track</td>
+    <td>Accountancy, Business, and Management</td>
+    <td>Fayol</td>
+    <td>Ceasar Ian S. Taguba</td>
+  </tr>
+<tr>
+       <td>Grade 11(Year V)</td>
+    <td>Academic Track</td>
+    <td>Humanities and Social Sciences</td>
+    <td>Shakespeare</td>
+    <td>Eillen Pia L. Justo</td>
+  </tr>
+<tr>
+        <td>Grade 11(Year V)</td>
+    <td>Academic Track</td>
+    <td>Humanities and Social Sciences</td>
+    <td>Chaucer</td>
+    <td>Estrelita B. Santiago</td>
+  </tr>
+<tr>
+     <td>Grade 11(Year V)</td>
+    <td>Academic Track</td>
+    <td>Humanities and Social Sciences</td>
+    <td>Homer</td>
+    <td>Catherine C. Bayang</td>
+<tr>
+    <td>Grade 11(Year V)</td>
+    <td>Academic Track</td>
+    <td>Science, Technology, Engineering, and Mathematics</td>
+    <td>Galileo</td>
+    <td>Fedeliano J. Bernardo Jr.</td>
+  </tr>
+  <tr>
+  <td>Grade 11(Year V)</td>
+    <td>Technical-Vocational-Livelihood Track</td>
+    <td>Automotive Servicing (NC I)</td>
+    <td>Goodyear</td>
+    <td>Jayson B. Cadeliña</td>
+  </tr>
+<tr>
+     <td>Grade 11(Year V)</td>
+    <td>Technical-Vocational-Livelihood Track</td>
+    <td>Automotive Servicing (NC I)</td>
+    <td>Bridgestone</td>
+    <td>Nomer L. Dumlao</td>
+  </tr>
+<tr>
+     <td>Grade 11(Year V)</td>
+    <td>Technical-Vocational-Livelihood Track</td>
+    <td>Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness </td>
+    <td>Beauty</td>
+    <td>Karmela Joy S. Aquino</td>
+  </tr>
+<tr>
+    <td>Grade 11(Year V)</td>
+    <td>Technical-Vocational-Livelihood Track</td>
+    <td>Computer Programming (NC IV), Computer Hardware Servicing</td>
+    <td>Asus</td>
+    <td>Mark Antony B. Buquel</td>
+  </tr>
+<tr>
+    <td>Grade 11(Year V)</td>
+    <td>Sports Track</td>
+    <td></td>
+    <td>Warriors</td>
+    <td>Faith B. Agbayani</td>
+
+  </tr>
+<tr>
+     <td>Grade 12(Year VI)</td>
+    <td>Academic Track</td>
+    <td>Accountancy, Business, and Management</td>
+    <td>Marco Polo</td>
+    <td>Madeline G. Gumpal</td> 
+</tr>
+<tr>
+  <td>Grade 12(Year VI)</td>
+    <td>Academic Track</td>
+    <td>Humanities and Social Sciences</td>
+    <td>Herodotus</td>
+    <td>Katherine B. Alvarado</td> 
+  </tr>
+<tr>
+      <td>Grade 12(Year VI)</td>
+    <td>Academic Track</td>
+    <td>Humanities and Social Sciences</td>
+    <td>Socrates</td>
+    <td>Haydee D. Dancel</td> 
+  </tr>
+<tr>
+    <td>Grade 12(Year VI)</td>
+    <td>Academic Track</td>
+    <td>Humanities and Social Sciences</td>
+    <td>Confucius</td>
+    <td>Meriam P. Valencia</td> 
+  </tr>
+<tr>
+    <td>Grade 12(Year VI)</td>
+    <td>Academic Track</td>
+    <td>Science, Technology, Engineering, and Mathematics</td>
+    <td>Pythagoras</td>
+    <td>Shaly Rose D. Antonio</td> 
+  </tr>
+<tr>
+       <td>Grade 12(Year VI)</td>
+    <td>Technical-Vocational-Livelihood Track</td>
+    <td>Automotive Servicing (NC I)</td>
+    <td>Yokohama</td>
+    <td>Corazon D. Licayan</td>
+  </tr>
+<tr>
+    <td>Grade 12(Year VI)</td>
+    <td>Technical-Vocational-Livelihood Track</td>
+    <td>Beauty/ Nail Care (NC II), Hairdressing (NC II), Wellness </td>
+    <td>Wellness</td>
+    <td>Claris F. Base</td>
+  </tr>
+<tr>
+ <td>Grade 12(Year VI)</td>
+    <td>Technical-Vocational-Livelihood Track</td>
+    <td>Computer Programming (NC IV), Computer Hardware Servicing  </td>
+    <td>Gigabyte</td>
+    <td>Richard S. Torno</td>
+  </tr>
+<tr>
+   <td>Grade 12(Year VI)</td>
+    <td>Sports Track</td>
+    <td></td>
+    <td>Smasher</td>
+    <td>Myrna  Lynn C. Meneses</td>
+
+  </tr>
+
+
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
+</style>
+</head>
+<body>
+
+<button class="button button1"><li><a href="C:\Users\ACER PC\Desktop\KATRINA.html" target="_blank">Home</a></li></button>
+
+
+</body>
+
+</style>
+
+</table>
+</html>
